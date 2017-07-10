@@ -2,5 +2,3 @@ from Person import Person
 
 person = Person("Chris")
 print person.name
-
-

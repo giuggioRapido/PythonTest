@@ -1,4 +1,3 @@
 from Person import Person
 
-person = Person("Chris")
-print person.name
+Person('Chris').greet(Person('Clara'))
